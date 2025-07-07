@@ -1,0 +1,26 @@
+# Business Analytics Capstone Project Requirements
+# University of Pennsylvania (Wharton) Business Analytics Specialization
+
+# Core Data Science
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Data Visualization
+plotly>=5.15.0
+seaborn>=0.12.0
+matplotlib>=3.7.0
+
+# Web Dashboard
+streamlit>=1.25.0
+
+# Data Generation
+faker>=19.0.0
+
+# Utilities
+python-dateutil>=2.8.0
+pytz>=2023.3
+
