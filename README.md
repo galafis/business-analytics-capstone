@@ -509,3 +509,23 @@ For questions, issues, or collaboration opportunities:
 
 *This project demonstrates the practical application of business analytics principles learned through the University of Pennsylvania's prestigious Business Analytics Specialization program. It serves as a comprehensive portfolio piece showcasing advanced analytical capabilities and business intelligence expertise.*
 
+
+
+## 📋 Descrição
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📦 Instalação
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 💻 Uso
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📄 Licença
+
+Descreva aqui o conteúdo desta seção.
