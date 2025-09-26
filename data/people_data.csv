@@ -1,3 +1,11 @@
 employee_id,name,position,department,salary,hire_date
-# Placeholder data file for people analytics
-# Add your people/HR data here
+1,Ana Carolina Santos,Analista de Marketing,Marketing,4500.00,2022-01-15
+2,Bruno Silva Oliveira,Desenvolvedor Senior,TI,8200.00,2021-03-10
+3,Carla Ferreira Lima,Gerente de Vendas,Vendas,9500.00,2020-05-22
+4,Daniel Costa Rocha,Assistente Administrativo,Administrativo,3200.00,2023-02-08
+5,Eduarda Almeida Sousa,Analista de RH,Recursos Humanos,5100.00,2022-07-14
+6,Fernando Pereira Santos,Coordenador de Produção,Produção,7300.00,2021-11-03
+7,Gabriela Martins Silva,Analista Financeiro,Financeiro,5800.00,2022-09-20
+8,Hugo Barbosa Lima,Técnico de Manutenção,Operações,4100.00,2023-04-12
+9,Isabela Rodrigues Costa,Especialista em Qualidade,Qualidade,6200.00,2021-08-30
+10,João Pedro Nunes,Estagiario de Marketing,Marketing,1800.00,2023-06-01
