@@ -1,3 +1,11 @@
 customer_id,name,email,registration_date,status
-# Placeholder data file for customer analytics
-# Add your customer data here
+1,Ana Silva,ana.silva@email.com,2023-01-15,active
+2,Carlos Santos,carlos.santos@email.com,2023-02-20,active
+3,Maria Oliveira,maria.oliveira@email.com,2023-03-10,inactive
+4,João Costa,joao.costa@email.com,2023-04-05,active
+5,Fernanda Lima,fernanda.lima@email.com,2023-05-12,active
+6,Pedro Almeida,pedro.almeida@email.com,2023-06-18,pending
+7,Juliana Rocha,juliana.rocha@email.com,2023-07-22,active
+8,Rafael Sousa,rafael.sousa@email.com,2023-08-03,inactive
+9,Camila Ferreira,camila.ferreira@email.com,2023-09-14,active
+10,Lucas Pereira,lucas.pereira@email.com,2023-09-20,active
