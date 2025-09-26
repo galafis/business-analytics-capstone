@@ -1,3 +1,11 @@
 transaction_id,date,account,category,amount,description
-# Placeholder data file for financial analytics
-# Add your financial data here
+1,2023-01-15,001234567,Revenue,15000.50,Venda de produtos online
+2,2023-01-20,001234567,Expense,2500.75,Compra de materiais
+3,2023-02-10,001234567,Revenue,8750.25,Serviços prestados
+4,2023-02-15,001234567,Expense,1200.00,Aluguel escritório
+5,2023-03-05,001234567,Revenue,12300.80,Vendas B2B
+6,2023-03-12,001234567,Expense,3400.50,Salários funcionários
+7,2023-04-08,001234567,Revenue,9850.00,Consultoria
+8,2023-04-22,001234567,Expense,850.25,Utilidades públicas
+9,2023-05-03,001234567,Revenue,16500.75,Vendas trimestrais
+10,2023-05-18,001234567,Expense,4200.00,Marketing digital
