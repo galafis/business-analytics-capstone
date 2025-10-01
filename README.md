@@ -1,4 +1,7 @@
 # 📊 Business Analytics Capstone Project
+
+![Business Analytics Capstone Project Hero Image](./hero_image.png)
+
 **University of Pennsylvania (Wharton) Business Analytics Specialization - Final Project**
 
 *This project represents the culmination of the Business Analytics Specialization from the University of Pennsylvania's Wharton School, demonstrating comprehensive mastery of Customer Analytics, Operations Analytics, People Analytics, and Accounting Analytics.*
@@ -308,3 +311,4 @@ Contribuições são bem-vindas! Ao contribuir, você concorda em licenciar suas
 ---
 
 **Desenvolvido como parte da Especialização em Business Analytics da Universidade da Pensilvânia (Wharton)**
+
