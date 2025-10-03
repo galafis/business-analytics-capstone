@@ -263,7 +263,7 @@ Este projeto está licenciado sob a **Licença MIT** - uma das licenças de cód
 ```
 MIT License
 
-Copyright (c) 2024 Business Analytics Capstone Project
+Copyright (c) 2024 Gabriel Demetrios Lafis
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
